@@ -36,4 +36,7 @@
  
 
 ---
-
+## 🔥 Minha Atividade no GitHub  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasaugustopro&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
+</p>
