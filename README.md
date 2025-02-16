@@ -24,8 +24,8 @@
 ## 📊 **Estatísticas do GitHub**  
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasaugustopro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasaugustopro&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasaugustopro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasaugustopro&layout=compact&langs_count=7&theme=dark"/>
 </p>
 
 ---
@@ -48,7 +48,7 @@
 
 ## 🔥 Minha Atividade no GitHub  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasaugustopro&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasaugustopro&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
 </p>
 
 ---
